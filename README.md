@@ -6,6 +6,8 @@ Bringing passion and resilience to the tech scene, one line of code at a time.
 Follow me on Twitter
 [![Twitter URL](https://twitter.com/JacinthaDev)]
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev)
+
 ## My Portfolio Website
 
 https://jacinthadev.netlify.app/
@@ -29,6 +31,6 @@ Tools: Git | GitHub | VSCode | iTerm | Warp | Figma
 
 📬  Get in Touch
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/jacinthaf/
 
 📧 Email: JacinthaDev8@gmail.com
