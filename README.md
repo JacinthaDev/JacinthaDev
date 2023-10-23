@@ -3,9 +3,6 @@ Software Engineer | Carribbean-American | Philadelphia-Based
 
 Bringing passion and resilience to the tech scene, one line of code at a time. 
 
-Follow me on Twitter
-[![Twitter URL](https://twitter.com/JacinthaDev)]
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev)
 
 ## My Portfolio Website
