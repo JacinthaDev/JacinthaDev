@@ -1,5 +1,5 @@
 # Hello, World! 👋 I'm Jacintha
-Software Engineer | Carribbean-American | Philadelphia-Based
+Software Engineer | Carribbean-American |
 
 Bringing passion and resilience to the tech scene, one line of code at a time. 
 
