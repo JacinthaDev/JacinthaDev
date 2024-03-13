@@ -20,9 +20,9 @@ Client's Website: I'm actively developing a comprehensive website for a client, 
 ⚡ Fun Fact: When I'm not coding, I'm working out, doing yoga, dancing, or reading
 
 ## 🛠  Tech Stack
-Frontend: HTML5 | CSS3 | JavaScript | React.js | Next.js
+Frontend: JavaScript | React.js | HTML5 | CSS3 
 
-Backend: Node.js | MongoDB
+Backend: Node.js | Express.js | MongoDB
 
 Tools: Git | GitHub | VSCode | iTerm | Warp | Figma
 
