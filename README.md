@@ -7,7 +7,7 @@ Turning complex problems into elegant solutions, one line of code at a time.
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev)
 
-## [>> Click here to go to my portfolio](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4)
+### [My Portfolio](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4)
 
 🔭 Ongoing Work: Ruby on Rails Web Development Projects
 
