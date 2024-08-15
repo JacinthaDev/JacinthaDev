@@ -1,7 +1,7 @@
 # Hello, World! 👋 I'm Jacintha
 Software Engineer | Carribbean-American 
 
-Ruby on Rails | Javascript | Node.js | Express.js |React | HTML5 | CSS3 | Git | GitHub | SQL | Bootstrap 
+Ruby on Rails | Javascript | Node.js | Express.js | React | HTML5 | CSS3 | Git | GitHub | SQL | Bootstrap 
 
 Turning complex problems into elegant solutions, one line of code at a time.
 
