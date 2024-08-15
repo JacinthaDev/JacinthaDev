@@ -5,9 +5,9 @@ Ruby on Rails | Javascript | Node.js | Express.js | React | HTML5 | CSS3 | Git |
 
 Turning complex problems into elegant solutions, one line of code at a time.
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev){:target="_blank"} 
 
-### [My Portfolio](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4)
+### [My Portfolio](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4){:target="_blank"} 
 
 🔭 Ongoing Work: Ruby on Rails Web Development Projects
 
@@ -15,6 +15,6 @@ Turning complex problems into elegant solutions, one line of code at a time.
 
 📬  Get in Touch
 
-💼 LinkedIn: https://www.linkedin.com/in/jacinthaf/
+💼 LinkedIn: (https://www.linkedin.com/in/jacinthaf/){:target="_blank"} 
 
 📧 Email: JacinthaDev8@gmail.com
