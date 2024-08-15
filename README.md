@@ -5,7 +5,7 @@ Ruby on Rails | Javascript | Node.js | Express.js | React | HTML5 | CSS3 | Git |
 
 Turning complex problems into elegant solutions, one line of code at a time.
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev){:target="_blank"} 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JacinthaDev.svg?style=social&label=Follow%20%40JacinthaDev)](https://twitter.com/JacinthaDev)
 
 ### [My Portfolio](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4)
 
