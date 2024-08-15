@@ -11,9 +11,6 @@ Bringing passion and resilience to the tech, one line of code at a time.
 
 https://jacinthadev.notion.site/
 
-## 🚀 Current Projects
-Client's Website: I'm actively developing a comprehensive website for a client, integrating the latest web technologies to provide an optimal user experience.
-
 ##
 🔭 Ongoing Work: Ruby on Rails Web Development Projects
 
