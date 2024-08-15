@@ -7,7 +7,7 @@ Bringing passion and resilience to the tech scene, one line of code at a time.
 
 ## My Portfolio Website
 
-https://jacinthadev.netlify.app/
+https://jacinthadev.notion.site/
 
 ## 🚀 Current Projects
 Client's Website: I'm actively developing a comprehensive website for a client, integrating the latest web technologies to provide an optimal user experience.
