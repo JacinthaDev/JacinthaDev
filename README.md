@@ -9,7 +9,6 @@ Turning complex problems into elegant solutions, one line of code at a time.
 
 ## [My Portfolio Website](https://www.notion.so/jacinthadev/Welcome-to-my-portfolio-d590aaa2a01340dea70b2685ab15c8dd?pvs=4)
 
-##
 🔭 Ongoing Work: Ruby on Rails Web Development Projects
 
 ⚡ Fun Fact: When I'm not coding, I'm working out, doing yoga, reading, or travelling
