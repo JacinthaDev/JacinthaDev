@@ -1,5 +1,6 @@
 # Hello, World! 👋 I'm Jacintha
 Software Engineer | Carribbean-American 
+
 Ruby on Rails | Javascript | Node.js | Express.js |React | HTML5 | CSS3 | Git | GitHub | SQL | Bootstrap 
 
 Bringing passion and resilience to the tech, one line of code at a time. 
