@@ -2,6 +2,7 @@
 Software Engineer | Carribbean-American 
 
 Ruby on Rails | Javascript | Node.js | Express.js | React | HTML5 | CSS3 | Git | GitHub | SQL | Bootstrap 
+   ![Gem Total Downloads](https://img.shields.io/gem/dt/:gem)
    ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
